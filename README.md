@@ -8,7 +8,7 @@ I’m a full stack web developer passionate about crafting dynamic, responsive w
 
 ## Languages Used
 
-![Languages](image.jpg)
+
 
 - **CSS:** 47.6%
 - **SCSS:** 41.1%
